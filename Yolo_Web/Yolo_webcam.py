@@ -2,6 +2,8 @@ from ultralytics import YOLO
 import cv2
 import cvzone
 import math
+
+
 #  for webcam
 
 # cap = cv2.VideoCapture(0)# it will work on 0 nor one since i have only one web cam that can be default one
